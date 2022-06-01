@@ -1,4 +1,4 @@
-# manusim-admin
+# dashboard-admin
 
 > A Vue.js project
 
